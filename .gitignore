@@ -1,0 +1,8 @@
+# Local data persisted by Orthanc
+orthanc-db/
+orthanc-python/__pycache__/
+
+# Environment or override files
+.env
+docker-compose.override.yml
+/orthanc-ohif/dist
