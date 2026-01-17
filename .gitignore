@@ -6,3 +6,4 @@ orthanc-python/__pycache__/
 .env
 docker-compose.override.yml
 /orthanc-ohif/dist
+.DS_Store
